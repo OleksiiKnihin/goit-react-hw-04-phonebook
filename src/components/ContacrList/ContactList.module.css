@@ -1,0 +1,32 @@
+.contactList {
+    padding: 30px 50px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(236, 225, 247);
+}
+
+.contactList__name {
+    display: block;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.contactList__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contactList__btn {
+    padding: 5px 10px;
+    margin-left: auto;
+
+    font-size: 16px;
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+
+    border: none;
+    border-radius: 20px;
+
+}
