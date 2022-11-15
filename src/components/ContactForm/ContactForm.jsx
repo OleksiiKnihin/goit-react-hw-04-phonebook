@@ -30,7 +30,7 @@ export const ContactForm = ({ handleSubmit }) => {
         <input
           type="text"
           name="name"
-          placeholder="Anna Fomina"
+          placeholder="Angelina Jolie"
           className={css.contactForm__name}
           value={name}
           onChange={handleChangeName}
